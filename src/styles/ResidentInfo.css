@@ -1,0 +1,39 @@
+
+  
+  .resident-info p {
+    margin: 5px 0;
+    overflow-wrap: break-word; /* Permite el ajuste de palabra en caso de que el contenido sea demasiado largo */
+  }
+  
+  
+  .resident-info h3 {
+    margin-top: 0;
+  }
+  
+  .resident-info .resident-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+  
+  .resident-info p {
+    margin: 5px 0;
+  }
+  
+  .resident-info strong {
+    font-weight: bold;
+  }
+  
+  div.resident-info {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  @media screen and (max-width: 768px) {
+    div.resident-info {
+      text-align: center;
+    }
+  }
