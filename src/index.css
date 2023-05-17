@@ -1,11 +1,11 @@
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   color: #f9f9f9;
-} 
-
-body{
   background-image: url('../public/image/Rick\ y\ Morty\ -\ Desktop\ version.png');
   background-repeat: repeat;
   background-size: cover;
   background-position: center;
-}
+} 
+
+
+
